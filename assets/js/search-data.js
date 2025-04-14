@@ -7,42 +7,42 @@ ninja.data = [{
     title: "About",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/github.io/";
+      window.location.href = "/";
     },
   },{id: "nav-publications",
           title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/github.io/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-projects",
           title: "Projects",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/github.io/projects/";
+            window.location.href = "/projects/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/github.io/teaching/";
+            window.location.href = "/teaching/";
           },
         },{id: "nav-repositories",
           title: "Repositories",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/github.io/repositories/";
+            window.location.href = "/repositories/";
           },
         },{id: "nav-cv",
           title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/github.io/cv/";
+            window.location.href = "/cv/";
           },
         },{id: "news-meet-me-at-the-mpsa-2025-i-will-present-a-poster-about-my-current-project-with-shiro-kuriwaki-on-ticket-splitting",
           title: 'Meet me at the MPSA 2025! I will present a poster about my...',
@@ -54,12 +54,12 @@ ninja.data = [{
           title: 'Ticket Splitting',
           description: "With Shiro Kuriwaki",
           section: "Projects",handler: () => {
-              window.location.href = "/github.io/projects/1_project.html";
+              window.location.href = "/projects/1_project.html";
             },},{id: "projects-the-effect-of-media-salience-on-parliamentary-speech-behavior",
           title: 'The Effect of Media Salience on Parliamentary Speech Behavior',
           description: "Master Thesis at the University of Konstanz",
           section: "Projects",handler: () => {
-              window.location.href = "/github.io/projects/2_project.html";
+              window.location.href = "/projects/2_project.html";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
