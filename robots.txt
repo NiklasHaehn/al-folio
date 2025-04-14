@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://niklashaehn.github.iohttps://niklashaehn.github.io/sitemap.xml
+Sitemap: https://niklashaehn.github.io/github.io/sitemap.xml
